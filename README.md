@@ -1,18 +1,4 @@
-[html .txt](https://github.com/JVFS123/JVFS123/files/8711503/html.txt)
-- 👋 Hi, I’m @JVFS123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-JVFS123/JVFS123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!DOCTYPE html>
-<html lang="en-US">
-<head>
-	<meta charset="UTF-8">
 			<title>Alfabeto Especial &#8211; Atividades &#8211; Educação Especial</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta name='robots' content='max-image-preview:large' />
