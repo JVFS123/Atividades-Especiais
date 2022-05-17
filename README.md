@@ -736,7 +736,7 @@ body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}</style>		<div
 		sibling.parentElement.insertBefore( skipLink, sibling );
 	}() );
 	</script>
-	<link rel='stylesheet' id='e-animations-css'  href='https://beatfish.com.br/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.5.5' media='all' />
+	
 <script src='https://beatfish.com.br/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
 <script src='https://beatfish.com.br/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.6.2' id='elementor-pro-webpack-runtime-js'></script>
 <script src='https://beatfish.com.br/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.5.5' id='elementor-webpack-runtime-js'></script>
