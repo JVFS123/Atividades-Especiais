@@ -499,7 +499,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 				<div class="elementor-element elementor-element-8f56aee e-transform elementor-widget elementor-widget-button" data-id="8f56aee" data-element_type="widget" data-settings="{&quot;_transform_translateX_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:18,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-27,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://pay.kiwify.com.br/2qd4kQy" class="elementor-button-link elementor-button elementor-size-md" role="button">
+			<a href="https://pay.kiwify.com.br/qKmCrZj" class="elementor-button-link elementor-button elementor-size-md" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">COMPRAR COM DESCONTO</span>
 		</span>
@@ -536,7 +536,7 @@ body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}</style>		<div
 				<div class="elementor-element elementor-element-b6fda3c e-transform e-transform elementor-button-warning elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="b6fda3c" data-element_type="widget" data-settings="{&quot;_transform_translateX_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-102,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.1,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://pay.kiwify.com.br/2qd4kQy" class="elementor-button-link elementor-button elementor-size-xl" role="button">
+			<a href="https://pay.kiwify.com.br/qKmCrZj" class="elementor-button-link elementor-button elementor-size-xl" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">DESCONTO</span>
 		</span>
@@ -644,7 +644,7 @@ body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}</style>		<div
 				<div class="elementor-element elementor-element-fa6521d elementor-button-success elementor-align-center elementor-widget elementor-widget-button" data-id="fa6521d" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://pay.kiwify.com.br/2qd4kQy" class="elementor-button-link elementor-button elementor-size-lg" role="button">
+			<a href="https://pay.kiwify.com.br/qKmCrZj" class="elementor-button-link elementor-button elementor-size-lg" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">GOSTEI, QUERO ALFABETIZAR MEU FILHO!</span>
 		</span>
