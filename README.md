@@ -1,7 +1,7 @@
 
 
-<html lang="en-US">
-<head>
+
+
 	<meta charset="UTF-8">
 			<title>Alfabeto Especial &#8211; Página Principal &#8211; Educação Especial</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
