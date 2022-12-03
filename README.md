@@ -771,7 +771,7 @@ body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}</style>		<div
 				<div class="elementor-element elementor-element-402da438 elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="402da438" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="" class="elementor-button-link elementor-button elementor-size-md" role="button">
+			<a href="https://pay.hotmart.com/U77142787F?checkoutMode=10" class="elementor-button-link elementor-button elementor-size-md" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">SIM! EU QUERO MUDAR DE VIDA</span>
 		</span>
