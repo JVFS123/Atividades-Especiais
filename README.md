@@ -642,7 +642,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 				<div class="elementor-widget-container">
 															<img src="https://ditadinhooficial.com/wp-content/uploads/2022/10/19-10-16-Premio-Denatran-Professora-vencedora.-EM.-Tomas-Meireles.-Fotos-Cleomir-Santos-1.jpg" title="19-10-16-Prêmio-Denatran-Professora-vencedora.-EM.-Tomas-Meireles.-Fotos-Cleomir-Santos-1" alt="19-10-16-Prêmio-Denatran-Professora-vencedora.-EM.-Tomas-Meireles.-Fotos-Cleomir-Santos-1">															</div>
 				</div>
-				<div class="elementor-element elementor-element-10156521 elementor-invisible elementor-widget elementor-widget-heading" data-id="10156521" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-10156521 elementor-widget elementor-widget-heading animated fadeInUp" data-id="10156521" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<h4 class="elementor-heading-title elementor-size-default">Maria José</h4>		</div>
 				</div>
@@ -717,7 +717,7 @@ body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}</style>		<div
 					<div class="elementor-button-wrapper">
 			<a href="https://pay.kiwify.com.br/8p9coEJ" class="elementor-button-link elementor-button elementor-size-md" role="button">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">SIM! EU QUERO MUDAR DE VIDA</span>
+						<span class="elementor-button-text">SIM! EU QUERO POR APENAS R$ 9,90</span>
 		</span>
 					</a>
 		</div>
