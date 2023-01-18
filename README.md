@@ -711,7 +711,7 @@ fbq('track', 'PageView');
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-15ab365a" data-id="15ab365a" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-6edeab9d e-transform e-transform elementor-invisible elementor-widget elementor-widget-heading" data-id="6edeab9d" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInDown&quot;,&quot;_transform_translateY_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:45,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="heading.default">
+								<div class="elementor-element elementor-element-6edeab9d e-transform e-transform elementor-widget elementor-widget-heading animated slideInDown" data-id="6edeab9d" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInDown&quot;,&quot;_transform_translateY_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:45,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<h3 class="elementor-heading-title elementor-size-xl" id="depoimentoquem-adquiriugostou-e-aprovou">DEPOIMENTO<br>QUEM ADQUIRIU<br>GOSTOU E APROVOU!<a class="anchorjs-link " href="#depoimentoquem-adquiriugostou-e-aprovou" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h3>		</div>
 				</div>
@@ -719,7 +719,7 @@ fbq('track', 'PageView');
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-538f330d" data-id="538f330d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-5302a337 elementor-view-stacked elementor-shape-circle elementor-invisible elementor-widget elementor-widget-icon" data-id="5302a337" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="icon.default">
+								<div class="elementor-element elementor-element-5302a337 elementor-view-stacked elementor-shape-circle elementor-widget elementor-widget-icon animated fadeInUp" data-id="5302a337" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="icon.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-wrapper">
 			<div class="elementor-icon">
@@ -727,15 +727,15 @@ fbq('track', 'PageView');
 		</div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-2011681d elementor-invisible elementor-widget elementor-widget-image" data-id="2011681d" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="image.default">
+				<div class="elementor-element elementor-element-2011681d elementor-widget elementor-widget-image animated fadeInUp" data-id="2011681d" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 															<img src="https://ditadinhooficial.com/wp-content/uploads/2022/11/sds.webp" title="sds" alt="sds">															</div>
 				</div>
-				<div class="elementor-element elementor-element-3fa9bd1f elementor-invisible elementor-widget elementor-widget-heading" data-id="3fa9bd1f" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-3fa9bd1f elementor-widget elementor-widget-heading animated fadeInUp" data-id="3fa9bd1f" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<h4 class="elementor-heading-title elementor-size-default" id="ana-carolina">Ana carolina<a class="anchorjs-link " href="#ana-carolina" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>		</div>
 				</div>
-				<div class="elementor-element elementor-element-51ee32d4 elementor-invisible elementor-widget elementor-widget-text-editor" data-id="51ee32d4" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-51ee32d4 elementor-widget elementor-widget-text-editor animated fadeInLeft" data-id="51ee32d4" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 							<p>Faz 6 meses que tô usando o Kit Financeiro e minha vida já melhorou muito!&nbsp;</p><p>Tinha duas dívidas (empréstimo no Nubank e estava devendo 3 meses da escola da minha filha). Hoje eu já quitei metade do empréstimo e não devo mais nada para a escola.&nbsp;</p><p><strong>As ferramentas mudaram a minha vida</strong> e hoje eu durmo tranquila e em paz</p>						</div>
 				</div>
@@ -743,7 +743,7 @@ fbq('track', 'PageView');
 		</div>
 				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3f1e71fa" data-id="3f1e71fa" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-4f67ceda elementor-view-stacked elementor-shape-circle elementor-invisible elementor-widget elementor-widget-icon" data-id="4f67ceda" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="icon.default">
+								<div class="elementor-element elementor-element-4f67ceda elementor-view-stacked elementor-shape-circle elementor-widget elementor-widget-icon animated fadeInUp" data-id="4f67ceda" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="icon.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-wrapper">
 			<div class="elementor-icon">
@@ -751,15 +751,15 @@ fbq('track', 'PageView');
 		</div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-23943aac elementor-invisible elementor-widget elementor-widget-image" data-id="23943aac" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="image.default">
+				<div class="elementor-element elementor-element-23943aac elementor-widget elementor-widget-image animated fadeInUp" data-id="23943aac" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 															<img src="https://ditadinhooficial.com/wp-content/uploads/2022/11/ft.webp" title="ft" alt="ft">															</div>
 				</div>
-				<div class="elementor-element elementor-element-23e85764 elementor-invisible elementor-widget elementor-widget-heading" data-id="23e85764" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-23e85764 elementor-widget elementor-widget-heading animated fadeInUp" data-id="23e85764" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<h4 class="elementor-heading-title elementor-size-default" id="carla-silva">Carla Silva<a class="anchorjs-link " href="#carla-silva" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>		</div>
 				</div>
-				<div class="elementor-element elementor-element-2b72531d elementor-invisible elementor-widget elementor-widget-text-editor" data-id="2b72531d" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-2b72531d elementor-widget elementor-widget-text-editor animated fadeInLeft" data-id="2b72531d" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 							<p>Eu já tinha visto este material, quando eu comprei me encantou ainda mais, material maravilhoso.</p><p>Eu era a pessoa que gastava mais do que ganhava, não tinha controle financeiro nenhum e me matava de trabalhar só para ficar pagando as contas e as dívidas que fazia.</p><p>Agora, <b>já estou com todas as minhas dívidas quitadas</b> e R$ 4960,09 investidos na minha conta do Nubank. Confesso que jamais imaginei. Gratidão!</p>						</div>
 				</div>
@@ -771,7 +771,7 @@ fbq('track', 'PageView');
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-60af2462" data-id="60af2462" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-40718189 elementor-view-stacked elementor-shape-circle elementor-invisible elementor-widget elementor-widget-icon" data-id="40718189" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="icon.default">
+								<div class="elementor-element elementor-element-40718189 elementor-view-stacked elementor-shape-circle elementor-widget elementor-widget-icon animated fadeInUp" data-id="40718189" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="icon.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-wrapper">
 			<div class="elementor-icon">
@@ -783,11 +783,11 @@ fbq('track', 'PageView');
 				<div class="elementor-widget-container">
 															<img src="https://ditadinhooficial.com/wp-content/uploads/2022/10/19-10-16-Premio-Denatran-Professora-vencedora.-EM.-Tomas-Meireles.-Fotos-Cleomir-Santos-1.jpg" title="19-10-16-Prêmio-Denatran-Professora-vencedora.-EM.-Tomas-Meireles.-Fotos-Cleomir-Santos-1" alt="19-10-16-Prêmio-Denatran-Professora-vencedora.-EM.-Tomas-Meireles.-Fotos-Cleomir-Santos-1">															</div>
 				</div>
-				<div class="elementor-element elementor-element-3aa3eb40 elementor-invisible elementor-widget elementor-widget-heading" data-id="3aa3eb40" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-3aa3eb40 elementor-widget elementor-widget-heading animated fadeInUp" data-id="3aa3eb40" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<h4 class="elementor-heading-title elementor-size-default" id="maria-josé">Maria José<a class="anchorjs-link " href="#maria-josé" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h4>		</div>
 				</div>
-				<div class="elementor-element elementor-element-9e09dea elementor-invisible elementor-widget elementor-widget-text-editor" data-id="9e09dea" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-9e09dea elementor-widget elementor-widget-text-editor animated fadeInLeft" data-id="9e09dea" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 							<p>Comprei o guia em Março e em Abril já comecei a me organizar. Confesso que quando coloquei tudo no papel, <b>fiquei assustada com os meus gastos.</b></p><p>Mas já estou me planejando e cortando os gastos desnecessários vou <b>conseguir economizar</b> 234,00 no mês que vem!</p><p>O Kit Financeiro abriu meus olhos e está mudando minha maneira de lidar com dinheiro!</p><p>&nbsp;</p>						</div>
 				</div>
